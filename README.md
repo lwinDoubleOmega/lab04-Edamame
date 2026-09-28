@@ -59,3 +59,5 @@ Git could not resolve the conflict because different team members edited the sam
 ### 4. How do fixtures reduce duplicated setup code in tests?
 
 Fixtures provide reusable setup code that can be shared across multiple tests. This prevents us from repeating the same setup steps in every test and makes the test files cleaner and easier to maintain.
+
+testing
