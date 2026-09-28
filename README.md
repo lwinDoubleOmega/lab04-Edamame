@@ -26,10 +26,10 @@ the following is the conflict we had when we tried to push.
 ### Git Contibution Summary
 git shortlog -sn
     10  Lwin Oo
+     5  Ngyein Chan Ko
      4  Erics12487254
      4  Wathan Htat
      3  Kaungmyattun8
-     3  Ngyein Chan Ko
 
 ### Reflection Questions
 
