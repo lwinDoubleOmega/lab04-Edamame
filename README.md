@@ -1,6 +1,8 @@
 # lab04-Edamame
 Lab 4 Group Work: Collaborating on a Shared GitHub Repository
 
+### 2. Who Did What Table
+
 | Member | GitHub Username | File |
 |---|---|---|
 | Han Htoo Aung | Erics12487254 | test_shared.py |
@@ -11,7 +13,7 @@ Lab 4 Group Work: Collaborating on a Shared GitHub Repository
 | Ngyein Chan Ko | Reka1X | test_teardown.py |
 | Wathan Htat | callmefrost27-dotcom | test_deposit.py |
 
-# Our Merge Conflits
+### 3. Our Merge Conflits
 the following is the conflict we had when we tried to push. 
 
 ### Conflict History
@@ -23,15 +25,15 @@ the following is the conflict we had when we tried to push.
 | Conflict 3 | Documentation lines conflicted with the 4th member's row and withdraw test information. |
 | Conflict 4 | Local conflict explanations conflicted with the 5th member's row and shared fixture test information. |
 
-### Git Contribution Summary
-git shortlog -sn
-    10  Lwin Oo
-     5  Ngyein Chan Ko
-     4  Erics12487254
-     4  Wathan Htat
-     3  Kaungmyattun8
+### 4. Git Contribution Summary
 
-### Reflection Questions
+| 10 |  Lwin Oo |
+| 7 | Ngyein Chan Ko |
+| 4 | Erics12487254 |
+| 4 | Wathan Htat |
+| 3 | Kaungmyattun8 |
+
+### 5. Reflection Questions
 
 1. Why was your push rejected, and how did you fix it?
 Our push was rejected because the remote repository had changes that were not in our local branch. We fixed it by pulling the changes with git pull --rebase and then pushing again.
