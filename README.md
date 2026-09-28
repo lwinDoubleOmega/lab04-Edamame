@@ -13,7 +13,7 @@ Lab 4 Group Work: Collaborating on a Shared GitHub Repository
 
 # Our Merge Conflits
 the following is the conflict we had when we tried to push. 
-
+# Conflict 1 
 <<<<<<< HEAD
 
 
@@ -24,3 +24,6 @@ the following is the conflict we had when we tried to push.
 | Wathan Htat | callmefrost27-dotcom | test_deposit.py |
 >>>>>>> cdbefa311c001030b2fac80b7ab874bab4b9f740
 
+# Conflict 2 
+
+# Conflict 3
