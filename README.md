@@ -12,6 +12,7 @@ Lab 4 Group Work: Collaborating on a Shared GitHub Repository
 | Wathan Htat | callmefrost27-dotcom | test_deposit.py |
 
 # Our Merge Conflits
+the following is the conflict we had when we tried to push. 
 
 <<<<<<< HEAD
 
