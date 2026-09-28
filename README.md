@@ -24,3 +24,6 @@ the following is the conflict we had when we tried to push.
 | Wathan Htat | callmefrost27-dotcom | test_deposit.py |
 >>>>>>> cdbefa311c001030b2fac80b7ab874bab4b9f740
 
+conflict 2
+this is conflict
+conflict 3
