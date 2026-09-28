@@ -30,3 +30,17 @@ git shortlog -sn
      4  Wathan Htat
      3  Kaungmyattun8
      3  Ngyein Chan Ko
+
+### Reflection Questions
+
+1. Why was your push rejected, and how did you fix it?
+Our push was rejected because the remote repository had changes that were not in our local branch. We fixed it by pulling the changes with git pull --rebase and then pushing again.
+
+2. Why could Git not resolve the README conflict automatically?
+Git could not resolve the conflict because different team members changed the same parts of README.md. We had to manually review the changes and decide what content to keep.
+
+3. What is the difference between committing and pushing?
+Committing saves our changes to the local Git repository, while pushing uploads the committed changes to the remote GitHub repository.
+
+4. How do fixtures reduce duplicated setup code in tests?
+Fixtures provide reusable setup code that can be used by multiple tests. This avoids writing the same setup code repeatedly for each test.
