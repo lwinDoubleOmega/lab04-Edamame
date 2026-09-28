@@ -27,11 +27,13 @@ the following is the conflict we had when we tried to push.
 
 ### 4. Git Contribution Summary
 
-10  Lwin Oo
-8  Ngyein Chan Ko
-4  Erics12487254
-4  Wathan Htat
-3  Kaungmyattun8
+| Contributions | Name |
+|---:|---|
+| 10 | Lwin Oo |
+| 8 | Ngyein Chan Ko |
+| 4 | Erics12487254 |
+| 4 | Wathan Htat |
+| 3 | Kaungmyattun8 |
 
 ### 5. Reflection Questions
 
