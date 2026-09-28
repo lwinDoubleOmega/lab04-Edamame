@@ -8,8 +8,3 @@ Lab 4 Group Work: Collaborating on a Shared GitHub Repository
 | Lwin Oo | lwinDoubleOmega | bank.py |
 | Lwin Oo | lwinDoubleOmega | conftest.py |
 | Lwin Oo | lwinDoubleOmega | .gitignore |
-
-
-
-
->>>>>>> 0d47fa3a0e1b8c8a8240de5874e2ab0388557697
