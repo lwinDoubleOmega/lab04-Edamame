@@ -23,7 +23,7 @@ the following is the conflict we had when we tried to push.
 | Conflict 3 | Documentation lines conflicted with the 4th member's row and withdraw test information. |
 | Conflict 4 | Local conflict explanations conflicted with the 5th member's row and shared fixture test information. |
 
-### Git Contibution Summary
+### Git Contribution Summary
 git shortlog -sn
     10  Lwin Oo
      5  Ngyein Chan Ko
