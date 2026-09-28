@@ -37,8 +37,6 @@ the following is the conflict we had when we tried to push.
 
 ### 5. Reflection Questions
 
-## Reflection Questions
-
 ### 1. Why was your push rejected, and how did you fix it?
 
 Our push was rejected because the remote repository contained changes that were not in our local branch. We fixed the issue by running `git pull --rebase` to integrate the remote changes before pushing again.
